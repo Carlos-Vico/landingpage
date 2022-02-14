@@ -1,1 +1,2 @@
-# landingpage
+# Landingpage
+Desafio VTEX - Landingpage 
